@@ -28,20 +28,20 @@ The HTML&CSS course, I didn't finish it, because I started practicing right off 
 ###Responsiveness, frameworks, and advanced topics( 2 weeks to a month )
 Alright, so you think you know html and css. But what do you know about responsivness? Or frameworks like Bootstrap or Skeleton? What about animations? Not to worry I'll link them to you, no wasting time and searching on the web.
 
-*[How to Bootstrap](https://www.youtube.com/playlist?list=PLqGj3iMvMa4IPwMW-sSXn1Q_pVu5tUMCw)
+* [How to Bootstrap](https://www.youtube.com/playlist?list=PLqGj3iMvMa4IPwMW-sSXn1Q_pVu5tUMCw)
 Bootstrap is the biggest guy on the block, it has many awesome features like a grid, boxes, tables, modals, and javascript functionality. My personal problem with this, and any other frameworks is that developers never get into the responsivness of things, they don't know what's happening don't explore the possibilities and what's our there waiting for them. It's an amazing start for newcomers, but delve deeper into the HTML and CSS of things.
 
-*[SkeletonCSS](http://getskeleton.com/)
+* [SkeletonCSS](http://getskeleton.com/)
 A personal favorite, lightweight, simple and only includes the essential grid.
 
-*[CSS3 + Animations](https://www.youtube.com/playlist?list=PLLnpHn493BHFOoBjPGOcWL1PnY0H1w5N_)
+* [CSS3 + Animations](https://www.youtube.com/playlist?list=PLLnpHn493BHFOoBjPGOcWL1PnY0H1w5N_)
 It took a while to learn this. It's tricky. But you'll get it down in about a week or two.
 
 ###Preprocessors( About a week )
 This is one of my favorite parts of web development. Sass. Oh. My. God. Preprocessors are a way to write better, slimmer and easier-to-read CSS. You can even go so far as to write no brackets or semicolons. It's amazing for quick prototyping, and it'll be hard to go back once you start practicing. All of my projects are written with Sass. It's ridiculous how 10 lines in Sass can equal to 30 normal CSS.
 
-*[Sass website](http://sass-lang.com/)
-*[Sass tutorials](https://www.youtube.com/playlist?list=PL2CB1F80266E986EA)
+* [Sass website](http://sass-lang.com/)
+* [Sass tutorials](https://www.youtube.com/playlist?list=PL2CB1F80266E986EA)
 
 Yes, I know it's a lot, but bear with me, by the time you get to the 5th video you'll know almost everything there is to know about preprocessors.
 
