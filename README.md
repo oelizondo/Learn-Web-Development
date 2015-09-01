@@ -69,7 +69,10 @@ So how is JS and jQuery used in the real world and in the web? Take a look:
 
 * [More awesome real world jQuery](https://www.youtube.com/playlist?list=PLoYCgNOIyGABdI2V8I_SWo22tFpgh2s6_)
 
-###Task Runners
+###Task Runners and Package Managers ( A month to really get the hang of it)
+
+####Gulp
+
 
 
 ###A JavaScript Framework
