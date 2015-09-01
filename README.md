@@ -20,7 +20,7 @@ These links are the steps I took to learn web development, in order, and the tim
 
 * [How the internet works](https://www.youtube.com/playlist?list=PLqGj3iMvMa4IbNGS5shOx38KXtAtWEZsq)
 
-###HTML and CSS( 1 to 2 months to dominate )
+###HTML and CSS ( 1 to 2 months to dominate. )
 It is worth noting that since thisi is the base of all your development education, you shouldn't move on to the next topic before mastering html and css.
 * [Codecademy](https://www.codecademy.com/)
 The HTML&CSS course, I didn't finish it, because I started practicing right off the bat. I made about 3 wesbites before moving on to the next topic. So when I came back to this course I had already learned all of it and more.
@@ -48,7 +48,7 @@ This is one of my favorite parts of web development. Sass. Oh. My. God. Preproce
 **Jade**
 
 Jade is an amazing template engine that replaces common HTML, and goes along nicely when mixing it with frameworks like Express, Rails, Angular, etc. Not necessary, but nice to have.
-* [Jade](http://jade-lang.com/)
+* [Jade website](http://jade-lang.com/)
 
 Yes, I know it's a lot, but bear with me, by the time you get this down, you're on to the amazing world of JS.
 
@@ -64,7 +64,7 @@ Although people argue jQuery is going downhill, it's just losing its popularity,
 
 Keep in mind these guides are the basics, I went on my own from there creating imaginary projects and some client work as well. That made me better in the JS world.
 
-###Web-Driven JavaScript( Another few months. )
+###Web-Driven JavaScript ( Another few months. )
 
 So how is JS and jQuery used in the real world and in the web? Take a look:
 
@@ -87,16 +87,14 @@ There is no real Bower tutorial, because it's really that dead simple to use.
 
 Please keep in mind that these are not all the task runners or package managers in the world. These are just the ones that I liked and clicked with me to help me learn and speed up my development process. There are other options out there, but these are my personal favorite.
 
-###A JavaScript Framework ( Many months )
+###A JavaScript Framework ( Many months / The rest of your life. )
 
 Alright, here we are. The best part of front-end web development. Why? Because we get to build real webapps now! Aren't you excited!? (You can take a breather). So, here's how it works:
 A JS framework lets you have the full functionality of an app but only running on the client side, while hooking up a BaaS ( Backend as a service ) like * [Parse](https://www.parse.com/) or * [Firebase](https://www.firebase.com/) to manage all your data for you. But there's so many!? Look here:
 
 1. You select a JS framework. ( How? The one that has the prettiest name, has the best landing, etc.)
 2. You make a simple app to test out the framework. Maybe a todo, just check things out.
-
 3. Practice.
-
 4. Get good.
 
 That's it! I personally love Angular, it's flexible, and nobody tells me how to do things. At first it took some time for things to flow. Why would I even want this? I can do that in plain HMTL and CSS. But then it clicked. It all comes down to the data. When you need dynamic info to move around your app, you'll need a framework. And that's where Angular kicked me in the face and I understood it once and for all.
@@ -108,9 +106,56 @@ That's it! I personally love Angular, it's flexible, and nobody tells me how to 
 * [Codeschool tutorial](http://campus.codeschool.com/courses/shaping-up-with-angular-js/intro)
 
 **You like web development but you want to make mobile apps and you know Angular?**
+
 * [Here's the Ionic framework for you](http://ionicframework.com/)
-I sued Ionic in a hackthon to build a Recipe building application that interacted with the Yummmly API. It was cool and the dev. environment was comfortable and appropiate for a web developer.
+I used Ionic in a hackathon to build a Recipe building application that interacted with the Yummmly API. It was cool and the development environment was comfortable and appropiate for a web developer.
 
-###Backend
+###Backend( The rest of your life. )
 
-This is where things start to get fuzzy. This is where all the rainbow-colored things die. I'm kidding. But this is where I had the most trouble thriving. The backend.
+This is where things start to get fuzzy. This is where all the rainbow-colored things die. I'm kidding. But this is where I had the most trouble thriving. The backend. The problem with this is having to choose (yet another) language for the server-side. There are two problems here: 1. Choosing stuff. (why are there so many options omg.) and 2. Having to learn another language. This is hard, you know HTML, CSS, JS. PLUS Sass, CoffeeScript, Jade and jQuery. Isn't that like, a lot? It is and if you're reading this, you're awesome.
+
+**Languages**
+
+These are the languages that I learned to become a backend developer.
+
+1. JavaScript (duh) I knew all the front-end part, why'd I choose a different language for the backend?
+
+It sucked. I tried [Sails](http://sailsjs.org/), I tried the [MEAN](http://meanjs.org/) Stack. And it didn't work. It didn't feel good. Express was weird, MongoDB was weird, Node itself was pretty weird, I didn't get the hang of things and things didn't move for a few months.
+
+Keep in mind that these frameworks are AWESOME and everybody should try them at least once if they don't love it at first sight.
+
+I tried it for a few months, mostly March through May (2015) and I didn't get anywhere. So for now, JS goes in the front-end side of things for me.
+
+2. Ruby <3 I didn't want to do it at first 'Ew, why Ruby?', but then I took some lessons (listed here) and now I'm in love. The language itself is elegant and expressive, there are tons of ways to do tons of things, and that's where I discovered Ruby on Rails.
+
+* [Ruby course](https://www.codecademy.com/en/tracks/ruby).
+* [Try Ruby](http://tryruby.org/levels/1/challenges/0).
+* [Ruby references](https://www.reddit.com/r/ruby).
+* [Awesome Ruby](https://github.com/markets/awesome-ruby).
+
+I did all that and read a few books (in the book section) and I was ready to take on rails.
+My ruby baby [Gitwrap](https://github.com/oelizondo/gitwrap-rb).
+
+**Rails**
+
+Rails is cool, it helps you out a lot, and makes you development go fast, you don't have to worry about the annoying stuff, only the amazing, coding part and cool-as-beans building webapps part.
+
+* [Because I know it's a pain](http://installrails.com/).
+
+Now, this is what I did to learn Rails in a week. Yes, after a week ( 7 days, 12 hours straight ):
+
+* [Michael Hartl's RoR Turorial](https://www.railstutorial.org/).
+
+I have the physical copy of this, so if you see me walking around just ask.
+
+That's it, after the book I went straight into app building. I did everything: todos, blogs, reddit clones, everything that came into my mind, I built. Why? Because it's easy to learn, that's the way to learn, practice.
+
+* [12 in 12 challenge](https://www.youtube.com/playlist?list=PL23ZvcdS3XPLNdRYB_QyomQsShx59tpc-).
+
+Also, dig into Rails gems, many times I found myself trying to implement a functionality that someone else had already built and made into a gem so other people could use it. (Devise, Cancan, CarrierWave).
+
+Rails resources I use almist daily:
+
+* [Rails Subreddit](https://www.reddit.com/r/rails).
+* [Railscasts](http://railscasts.com/).
+* [Mackenzie Child](https://www.youtube.com/playlist?list=PL23ZvcdS3XPKHTQBkvfxSeyeaO2EwnxlM).
