@@ -19,6 +19,8 @@ These are links to places I go to when I have a question.
 These links are the steps I took to learn web development, in order, and the time it takes to master it, with practice included:
 
 * [How the internet works](https://www.youtube.com/playlist?list=PLqGj3iMvMa4IbNGS5shOx38KXtAtWEZsq)
+* [Basic Terminal usage](https://www.youtube.com/watch?v=jDINUSK7rXE&index=16&list=PLoYCgNOIyGAB_8_iq1cL8MVeun7cB6eNc)
+* [How to Github](https://www.youtube.com/watch?v=0fKg7e37bQE&index=9&list=PLoYCgNOIyGAB_8_iq1cL8MVeun7cB6eNc)
 
 ###HTML and CSS ( 1 to 2 months to dominate. )
 It is worth noting that since thisi is the base of all your development education, you shouldn't move on to the next topic before mastering html and css.
@@ -110,6 +112,10 @@ That's it! I personally love Angular, it's flexible, and nobody tells me how to 
 * [Here's the Ionic framework for you](http://ionicframework.com/)
 
 I used Ionic in a hackathon to build a Recipe building application that interacted with the Yummmly API. It was cool and the development environment was comfortable and appropiate for a web developer.
+
+Before going to the backend, it's important (and awesome) to learn how to use APIs. Here is a simple guide that'll make you a pro, basically:
+
+* [APIs with JS](https://www.youtube.com/watch?v=ODlgfpLsFGk)
 
 ###Backend ( The rest of your life. )
 
