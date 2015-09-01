@@ -108,6 +108,7 @@ That's it! I personally love Angular, it's flexible, and nobody tells me how to 
 **You like web development but you want to make mobile apps and you know Angular?**
 
 * [Here's the Ionic framework for you](http://ionicframework.com/)
+
 I used Ionic in a hackathon to build a Recipe building application that interacted with the Yummmly API. It was cool and the development environment was comfortable and appropiate for a web developer.
 
 ###Backend( The rest of your life. )
@@ -128,34 +129,49 @@ I tried it for a few months, mostly March through May (2015) and I didn't get an
 
 2. Ruby <3 I didn't want to do it at first 'Ew, why Ruby?', but then I took some lessons (listed here) and now I'm in love. The language itself is elegant and expressive, there are tons of ways to do tons of things, and that's where I discovered Ruby on Rails.
 
-* [Ruby course](https://www.codecademy.com/en/tracks/ruby).
-* [Try Ruby](http://tryruby.org/levels/1/challenges/0).
-* [Ruby references](https://www.reddit.com/r/ruby).
-* [Awesome Ruby](https://github.com/markets/awesome-ruby).
+* [Ruby course](https://www.codecademy.com/en/tracks/ruby)
+* [Try Ruby](http://tryruby.org/levels/1/challenges/0)
+* [Ruby references](https://www.reddit.com/r/ruby)
+* [Awesome Ruby](https://github.com/markets/awesome-ruby)
 
 I did all that and read a few books (in the book section) and I was ready to take on rails.
-My ruby baby [Gitwrap](https://github.com/oelizondo/gitwrap-rb).
+
+My ruby baby [Gitwrap](https://github.com/oelizondo/gitwrap-rb)
 
 **Rails**
 
 Rails is cool, it helps you out a lot, and makes you development go fast, you don't have to worry about the annoying stuff, only the amazing, coding part and cool-as-beans building webapps part.
 
-* [Because I know it's a pain](http://installrails.com/).
+* [Because I know it's a pain](http://installrails.com/)
 
 Now, this is what I did to learn Rails in a week. Yes, after a week ( 7 days, 12 hours straight ):
 
-* [Michael Hartl's RoR Turorial](https://www.railstutorial.org/).
+* [Michael Hartl's RoR Turorial](https://www.railstutorial.org/)
 
 I have the physical copy of this, so if you see me walking around just ask.
 
 That's it, after the book I went straight into app building. I did everything: todos, blogs, reddit clones, everything that came into my mind, I built. Why? Because it's easy to learn, that's the way to learn, practice.
 
-* [12 in 12 challenge](https://www.youtube.com/playlist?list=PL23ZvcdS3XPLNdRYB_QyomQsShx59tpc-).
+* [12 in 12 challenge](https://www.youtube.com/playlist?list=PL23ZvcdS3XPLNdRYB_QyomQsShx59tpc-)
 
 Also, dig into Rails gems, many times I found myself trying to implement a functionality that someone else had already built and made into a gem so other people could use it. (Devise, Cancan, CarrierWave).
 
-Rails resources I use almist daily:
+Rails resources I use almost daily:
 
-* [Rails Subreddit](https://www.reddit.com/r/rails).
-* [Railscasts](http://railscasts.com/).
-* [Mackenzie Child](https://www.youtube.com/playlist?list=PL23ZvcdS3XPKHTQBkvfxSeyeaO2EwnxlM).
+* [Rails Subreddit](https://www.reddit.com/r/rails)
+* [Railscasts](http://railscasts.com/)
+* [Mackenzie Child](https://www.youtube.com/playlist?list=PL23ZvcdS3XPKHTQBkvfxSeyeaO2EwnxlM)
+
+I've been doing Rails since May. So that'd be about 4 Months. I have done many apps, learned many things, and I still learn new things everyday. To everybody that asks me, "How can I become a developer ASAP?". Please consider re-reading this guide, it really has all the steps to even get a good-paying job. To be a developer is not only a discipline, but a passion that takes dedication and sacrifice. Many times have I said no to a party (or something of the sort) to stay at home with some friends to keep learning. I encourage you to never stop hacking and make amazing stuff not only at hackathons or at school, but also at home, with your friend or even a startup.
+
+###Books
+
+Books I've read during this (never ending) journey:
+
+* [John Duckett's HTML / CSS & JavaScript / jQuery Books](http://www.amazon.com/Web-Design-HTML-JavaScript-jQuery/dp/1118907442/ref=sr_1_1?ie=UTF8&qid=1441080408&sr=8-1&keywords=html+css+javascript)
+
+* [Peter Cooper's Beginning Ruby](http://www.amazon.com/Beginning-Ruby-Novice-Professional-Experts/dp/1430223634/ref=sr_1_1?ie=UTF8&qid=1441080474&sr=8-1&keywords=beginning+ruby)
+
+* [The rails 4 way](http://www.amazon.com/Rails-Way-Addison-Wesley-Professional-Ruby/dp/0321944275/ref=sr_1_1?ie=UTF8&qid=1441080635&sr=8-1&keywords=the+rails+4+way)
+
+* [Object Oriented Progrmming](http://www.amazon.com/Practical-Object-Oriented-Design-Ruby-Addison-Wesley/dp/0321721330/ref=sr_1_1?ie=UTF8&qid=1441081084&sr=8-1&keywords=object+oriented+ruby)
