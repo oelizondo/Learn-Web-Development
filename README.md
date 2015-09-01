@@ -72,15 +72,40 @@ So how is JS and jQuery used in the real world and in the web? Take a look:
 ###Task Runners and Package Managers ( A month to really get the hang of it)
 
 **Gulp**
-Gulp is an amazing task runner that makes things super simple. What can it do? Compile your Sass, CoffeeScript, LiveReloads, compress images, files, handle errors. You never really know you need it until you try it. It speeds development time by seconds that turn into minutes that turn into hours that turn into days, you get the idea.
+ is an amazing task runner that makes things super simple. What can it do? Compile your Sass, CoffeeScript, LiveReloads, compress images, files, handle errors. You never really know you need it until you try it. It speeds development time by seconds that turn into minutes that turn into hours that turn into days, you get the idea.
 
 *  [Gulp tutorial](https://www.youtube.com/playlist?list=PLLnpHn493BHE2RsdyUNpbiVn-cfuV7Fos)
 
 **Bower**
-Bower is my favorite package manager. It does everything you need and more, with a simple command '''bower install skeleton''' You get the whole package installed and it's ready to use.
+ is my favorite package manager. It does everything you need and more, with a simple command '''bower install skeleton''' You get the whole package installed and it's ready to use.
 There is no real Bower tutorial, because it's really that dead simple to use.
+
+* [Bower.io](http://bower.io/)
 
 Please keep in mind that these are not all the task runners or package managers in the world. These are just the ones that I liked and clicked with me to help me learn and speed up my development process. There are other options out there, but these are my personal favorite.
 
 ###A JavaScript Framework
+
+Alright, here we are. The best part of front-end web development. Why? Because we get to build real webapps now! Aren't you excited!? (You can take a breather). So, here's how it works:
+A JS framework lets you have the full functionality of an app but only running on the client side, while hooking up a BaaS ( Backend as a service ) like Parse or Firebase to manage all your data for you. But there's so many!? Look here:
+
+1. You select a JS framework. ( How? The one that has the prettiest name, has the best landing, etc.)
+2. You make a simple app to test out the framework. Maybe a todo, just check things out.
+
+3. Practice.
+
+4. Get good
+
+That's it! I personally love Angular, it's flexible, and nobody tells me how to do things. At first it took some time for things to flow. Why would I even want this? I can do that in plain HMTL and CSS. But then it clicked. It all comes down to the data. When you need dynamic info to move around your app, you'll need a framework. And that's where Angular kicked me in the face and I understood it once and for all.
+
+* [Here you go](https://angularjs.org/)
+
+Follow the tutorial, it's amazing.
+
+* [Angular in 60ish minutes](https://www.youtube.com/watch?v=i9MHigUZKEM)
+
+* [Codeschool tutorial](http://campus.codeschool.com/courses/shaping-up-with-angular-js/intro)
+
+ 
+
 ###Backend
