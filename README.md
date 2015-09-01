@@ -47,7 +47,7 @@ Jade!
 Jade is an amazing template engine that replaces common HTML, and goes along nicely when mixing it with frameworks like Express, Rails, Angular, etc. Not necessary, but nice to have.
 * [Jade](http://jade-lang.com/)
 
-Yes, I know it's a lot, but bear with me, by the time you get to the 5th video you'll know almost everything there is to know about preprocessors.
+Yes, I know it's a lot, but bear with me, by the time you get this down, you're on to the amazing world of JS.
 
 ###Javascript and maybe jQuery ( A few months, get comfortable with JS )
 This is where things get interesting. Javascript and jQuery. Because from here you can choose a JS framework or pick a backend (more into that later).
@@ -71,9 +71,16 @@ So how is JS and jQuery used in the real world and in the web? Take a look:
 
 ###Task Runners and Package Managers ( A month to really get the hang of it)
 
-####Gulp
+**Gulp**
+Gulp is an amazing task runner that makes things super simple. What can it do? Compile your Sass, CoffeeScript, LiveReloads, compress images, files, handle errors. You never really know you need it until you try it. It speeds development time by seconds that turn into minutes that turn into hours that turn into days, you get the idea.
 
+*  [Gulp tutorial](https://www.youtube.com/playlist?list=PLLnpHn493BHE2RsdyUNpbiVn-cfuV7Fos)
 
+**Bower**
+Bower is my favorite package manager. It does everything you need and more, with a simple command '''bower install skeleton''' You get the whole package installed and it's ready to use.
+There is no real Bower tutorial, because it's really that dead simple to use.
+
+Please keep in mind that these are not all the task runners or package managers in the world. These are just the ones that I liked and clicked with me to help me learn and speed up my development process. There are other options out there, but these are my personal favorite.
 
 ###A JavaScript Framework
 ###Backend
