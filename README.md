@@ -1,13 +1,13 @@
 #Learn the Web
 
-**Awesome resources to become a web developer**
+**Awesome resources to become a web developer.**
 
 ##Foreword
 Many People have asked me the route to learn web development quickly or as fast as possible. My answer to them is: there's isn't one. Web development is such a big concept that it'd be impossible to learn in just a few months. This guide I wrote is the path I took to learn what I know about web development in a year. Naturally, this guide doesn't include all the mistakes I made and all the time I lost trying to teach myself a technology that didn't click with me. I listed all that I learned but you won't have to waste time. I will exclude things like text editors and version control because those are personal preferences. Enjoy:
 
 ## Learning Hubs
 These are links to places I go to when I have a question.
-* Github
+* [Github](https://github.com/)
 * [Mozilla Developer Network](https://developer.mozilla.org/en-US/Learn)
 * [CSS-Tricks](https://css-tricks.com/)
 * [Scotch.io](https://scotch.io/)
@@ -40,10 +40,13 @@ It took a while to learn this. It's tricky. But you'll get it down in about a we
 ###Preprocessors ( About a week to a month. )
 This is one of my favorite parts of web development. Sass. Oh. My. God. Preprocessors are a way to write better, slimmer and easier-to-read CSS. You can even go so far as to write no brackets or semicolons. It's amazing for quick prototyping, and it'll be hard to go back once you start practicing. All of my projects are written with Sass. It's ridiculous how 10 lines in Sass can equal to 30 normal CSS.
 
+**Sass**
+
 * [Sass website](http://sass-lang.com/)
 * [Sass tutorials](https://www.youtube.com/playlist?list=PL2CB1F80266E986EA)
 
-Jade!
+**Jade**
+
 Jade is an amazing template engine that replaces common HTML, and goes along nicely when mixing it with frameworks like Express, Rails, Angular, etc. Not necessary, but nice to have.
 * [Jade](http://jade-lang.com/)
 
@@ -69,7 +72,7 @@ So how is JS and jQuery used in the real world and in the web? Take a look:
 
 * [More awesome real world jQuery](https://www.youtube.com/playlist?list=PLoYCgNOIyGABdI2V8I_SWo22tFpgh2s6_)
 
-###Task Runners and Package Managers ( A month to really get the hang of it)
+###Task Runners and Package Managers ( A few weeks to really get the hang of it. )
 
 **Gulp**
  is an amazing task runner that makes things super simple. What can it do? Compile your Sass, CoffeeScript, LiveReloads, compress images, files, handle errors. You never really know you need it until you try it. It speeds development time by seconds that turn into minutes that turn into hours that turn into days, you get the idea.
@@ -77,35 +80,37 @@ So how is JS and jQuery used in the real world and in the web? Take a look:
 *  [Gulp tutorial](https://www.youtube.com/playlist?list=PLLnpHn493BHE2RsdyUNpbiVn-cfuV7Fos)
 
 **Bower**
- is my favorite package manager. It does everything you need and more, with a simple command '''bower install skeleton''' You get the whole package installed and it's ready to use.
+ is my favorite package manager. It does everything you need and more, with a simple command ```bower install skeleton``` You get the whole package installed and it's ready to use.
 There is no real Bower tutorial, because it's really that dead simple to use.
 
 * [Bower.io](http://bower.io/)
 
 Please keep in mind that these are not all the task runners or package managers in the world. These are just the ones that I liked and clicked with me to help me learn and speed up my development process. There are other options out there, but these are my personal favorite.
 
-###A JavaScript Framework
+###A JavaScript Framework ( Many months )
 
 Alright, here we are. The best part of front-end web development. Why? Because we get to build real webapps now! Aren't you excited!? (You can take a breather). So, here's how it works:
-A JS framework lets you have the full functionality of an app but only running on the client side, while hooking up a BaaS ( Backend as a service ) like Parse or Firebase to manage all your data for you. But there's so many!? Look here:
+A JS framework lets you have the full functionality of an app but only running on the client side, while hooking up a BaaS ( Backend as a service ) like * [Parse](https://www.parse.com/) or * [Firebase](https://www.firebase.com/) to manage all your data for you. But there's so many!? Look here:
 
 1. You select a JS framework. ( How? The one that has the prettiest name, has the best landing, etc.)
 2. You make a simple app to test out the framework. Maybe a todo, just check things out.
 
 3. Practice.
 
-4. Get good
+4. Get good.
 
 That's it! I personally love Angular, it's flexible, and nobody tells me how to do things. At first it took some time for things to flow. Why would I even want this? I can do that in plain HMTL and CSS. But then it clicked. It all comes down to the data. When you need dynamic info to move around your app, you'll need a framework. And that's where Angular kicked me in the face and I understood it once and for all.
 
-* [Here you go](https://angularjs.org/)
-
-Follow the tutorial, it's amazing.
+* [Follow the tutorial, it's amazing.](https://angularjs.org/)
 
 * [Angular in 60ish minutes](https://www.youtube.com/watch?v=i9MHigUZKEM)
 
 * [Codeschool tutorial](http://campus.codeschool.com/courses/shaping-up-with-angular-js/intro)
 
- 
+**You like web development but you want to make mobile apps and you know Angular?**
+* [Here's the Ionic framework for you](http://ionicframework.com/)
+I sued Ionic in a hackthon to build a Recipe building application that interacted with the Yummmly API. It was cool and the dev. environment was comfortable and appropiate for a web developer.
 
 ###Backend
+
+This is where things start to get fuzzy. This is where all the rainbow-colored things die. I'm kidding. But this is where I had the most trouble thriving. The backend.
