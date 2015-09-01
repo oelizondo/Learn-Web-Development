@@ -111,7 +111,7 @@ That's it! I personally love Angular, it's flexible, and nobody tells me how to 
 
 I used Ionic in a hackathon to build a Recipe building application that interacted with the Yummmly API. It was cool and the development environment was comfortable and appropiate for a web developer.
 
-###Backend( The rest of your life. )
+###Backend ( The rest of your life. )
 
 This is where things start to get fuzzy. This is where all the rainbow-colored things die. I'm kidding. But this is where I had the most trouble thriving. The backend. The problem with this is having to choose (yet another) language for the server-side. There are two problems here: 1. Choosing stuff. (why are there so many options omg.) and 2. Having to learn another language. This is hard, you know HTML, CSS, JS. PLUS Sass, CoffeeScript, Jade and jQuery. Isn't that like, a lot? It is and if you're reading this, you're awesome.
 
@@ -162,8 +162,6 @@ Rails resources I use almost daily:
 * [Railscasts](http://railscasts.com/)
 * [Mackenzie Child](https://www.youtube.com/playlist?list=PL23ZvcdS3XPKHTQBkvfxSeyeaO2EwnxlM)
 
-I've been doing Rails since May. So that'd be about 4 Months. I have done many apps, learned many things, and I still learn new things everyday. To everybody that asks me, "How can I become a developer ASAP?". Please consider re-reading this guide, it really has all the steps to even get a good-paying job. To be a developer is not only a discipline, but a passion that takes dedication and sacrifice. Many times have I said no to a party (or something of the sort) to stay at home with some friends to keep learning. I encourage you to never stop hacking and make amazing stuff not only at hackathons or at school, but also at home, with your friend or even a startup.
-
 ###Books
 
 Books I've read during this (never ending) journey:
@@ -175,3 +173,13 @@ Books I've read during this (never ending) journey:
 * [The rails 4 way](http://www.amazon.com/Rails-Way-Addison-Wesley-Professional-Ruby/dp/0321944275/ref=sr_1_1?ie=UTF8&qid=1441080635&sr=8-1&keywords=the+rails+4+way)
 
 * [Object Oriented Progrmming](http://www.amazon.com/Practical-Object-Oriented-Design-Ruby-Addison-Wesley/dp/0321721330/ref=sr_1_1?ie=UTF8&qid=1441081084&sr=8-1&keywords=object+oriented+ruby)
+
+###Conclusion
+
+I've been doing Rails since May. So that'd be about 4 Months. And Web development in general since October (2014). I have done many apps, learned many things, and I still learn new things everyday. To everybody that asks me, "How can I become a developer ASAP?". Please consider re-reading this guide, it really has all the steps to even get a good-paying job in the tech industry. If you can manage to master these things, I garantee you this.
+
+To be a developer is not only a discipline, but a passion that takes dedication and sacrifice. It is to think like an engineer, to come up with the best solution an how you can make a client competent, and satisfy him with your awesome skills.  Many times have I said no to a party (or something of the sort) to stay at home with some friends (or even alone) to keep learning. I encourage you to never stop hacking and make amazing stuff not only at hackathons or at school, but also at home, with your friends or even a startup.
+
+You can do this.
+
+-Oscar Elizondo
