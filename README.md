@@ -44,8 +44,8 @@ This is one of my favorite parts of web development. Sass. Oh. My. God. Preproce
 * [Sass tutorials](https://www.youtube.com/playlist?list=PL2CB1F80266E986EA)
 
 Jade!
-Jade is an amazing template engine that replaces common HTML, and goes along nicely when mixing it with frameworks like Express, Rails, Anuglar, etc. Not necessary, but nice to have.
-*[Jade](http://jade-lang.com/)
+Jade is an amazing template engine that replaces common HTML, and goes along nicely when mixing it with frameworks like Express, Rails, Angular, etc. Not necessary, but nice to have.
+* [Jade](http://jade-lang.com/)
 
 Yes, I know it's a lot, but bear with me, by the time you get to the 5th video you'll know almost everything there is to know about preprocessors.
 
