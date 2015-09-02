@@ -187,11 +187,8 @@ Rails resources I use almost daily:
 Books I've read during this (never ending) journey:
 
 * [John Duckett's HTML / CSS & JavaScript / jQuery Books](http://www.amazon.com/Web-Design-HTML-JavaScript-jQuery/dp/1118907442/ref=sr_1_1?ie=UTF8&qid=1441080408&sr=8-1&keywords=html+css+javascript)
-
 * [Peter Cooper's Beginning Ruby](http://www.amazon.com/Beginning-Ruby-Novice-Professional-Experts/dp/1430223634/ref=sr_1_1?ie=UTF8&qid=1441080474&sr=8-1&keywords=beginning+ruby)
-
 * [The rails 4 way](http://www.amazon.com/Rails-Way-Addison-Wesley-Professional-Ruby/dp/0321944275/ref=sr_1_1?ie=UTF8&qid=1441080635&sr=8-1&keywords=the+rails+4+way)
-
 * [Object Oriented Progrmming](http://www.amazon.com/Practical-Object-Oriented-Design-Ruby-Addison-Wesley/dp/0321721330/ref=sr_1_1?ie=UTF8&qid=1441081084&sr=8-1&keywords=object+oriented+ruby)
 
 ###Websites
