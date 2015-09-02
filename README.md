@@ -74,6 +74,17 @@ So how is JS and jQuery used in the real world and in the web? Take a look:
 
 * [More awesome real world jQuery](https://www.youtube.com/playlist?list=PLoYCgNOIyGABdI2V8I_SWo22tFpgh2s6_)
 
+During this period, I wasn't sure how JS really worked. Nor why I'd want to use it, so I looked for inspiration around the web and I found this:
+
+* [CodePen](http://codepen.io/)
+
+It's basically a playground were developers do clever and beautiful things. If you want to learn and see how people do things, go ahead and give it a try.
+
+###Agile Javascript ( Just practice while you do JS. )
+This is awesome, JS itself is kind of uncomfortable to use, but there are extensions of the language that make it easier to write. There are a few, but my favorite is CoffeeScript. The syntax is very Ruby-like, so if you come from a more expressive language (Like Ruby or Python) then CoffeeScript makes the transition painless and amazing. Also, it works well with jQuery, and you get amazing one-lines are your JS is reduced heavily. Here's a guide for you if you're interested:
+
+* [The Little Book on CoffeeScript](http://arcturo.github.io/library/coffeescript/)
+
 ###Task Runners and Package Managers ( A few weeks to really get the hang of it. )
 
 **Gulp**
@@ -87,7 +98,7 @@ There is no real Bower tutorial, because it's really that dead simple to use.
 
 * [Bower.io](http://bower.io/)
 
-Please keep in mind that these are not all the task runners or package managers in the world. These are just the ones that I liked and clicked with me to help me learn and speed up my development process. There are other options out there, but these are my personal favorite.
+Please keep in mind that these are not all the task runners or package managers in the world. These are just the ones that I liked and clicked with me to help me learn and speed up my development process. There are other options out there, but these are my personal favorites.
 
 ###A JavaScript Framework ( Many months / The rest of your life. )
 
@@ -167,6 +178,9 @@ Rails resources I use almost daily:
 * [Rails Subreddit](https://www.reddit.com/r/rails)
 * [Railscasts](http://railscasts.com/)
 * [Mackenzie Child](https://www.youtube.com/playlist?list=PL23ZvcdS3XPKHTQBkvfxSeyeaO2EwnxlM)
+* [Official Rails Guide](http://guides.rubyonrails.org/index.html)
+
+### Aditional resources
 
 ###Books
 
@@ -179,6 +193,12 @@ Books I've read during this (never ending) journey:
 * [The rails 4 way](http://www.amazon.com/Rails-Way-Addison-Wesley-Professional-Ruby/dp/0321944275/ref=sr_1_1?ie=UTF8&qid=1441080635&sr=8-1&keywords=the+rails+4+way)
 
 * [Object Oriented Progrmming](http://www.amazon.com/Practical-Object-Oriented-Design-Ruby-Addison-Wesley/dp/0321721330/ref=sr_1_1?ie=UTF8&qid=1441081084&sr=8-1&keywords=object+oriented+ruby)
+
+###Websites
+
+* [TeamTreehouse](https://teamtreehouse.com)
+* [CodeSchool](https://www.codeschool.com/)
+* [Codewars](http://www.codewars.com/)
 
 ###Conclusion
 
