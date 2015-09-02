@@ -21,11 +21,11 @@ These links are the steps I took to learn web development, in order, and the tim
 * [How the internet works](https://www.youtube.com/playlist?list=PLqGj3iMvMa4IbNGS5shOx38KXtAtWEZsq)
 * [Basic Terminal usage](https://www.youtube.com/watch?v=jDINUSK7rXE&index=16&list=PLoYCgNOIyGAB_8_iq1cL8MVeun7cB6eNc)
 * [How to Github](https://www.youtube.com/watch?v=0fKg7e37bQE&index=9&list=PLoYCgNOIyGAB_8_iq1cL8MVeun7cB6eNc)
+* [Publish your site](https://www.youtube.com/watch?v=tq7dqdHCc7U)
 
 ###HTML and CSS ( 1 to 2 months to dominate. )
 It is worth noting that since thisi is the base of all your development education, you shouldn't move on to the next topic before mastering html and css.
-* [Codecademy](https://www.codecademy.com/)
-The HTML&CSS course, I didn't finish it, because I started practicing right off the bat. I made about 3 wesbites before moving on to the next topic. So when I came back to this course I had already learned all of it and more.
+* [HTML & CSS](https://www.codecademy.com/) course, I didn't finish it, because I started practicing right off the bat. I made about 3 wesbites before moving on to the next topic. So when I came back to this course I had already learned all of it and more.
 
 ###Responsiveness, frameworks, and advanced topics ( 2 weeks to a month. )
 Alright, so you think you know html and css. But what do you know about responsivness? Or frameworks like Bootstrap or Skeleton? What about animations? Not to worry I'll link them to you, no wasting time and searching on the web.
@@ -199,6 +199,14 @@ Books I've read during this (never ending) journey:
 * [TeamTreehouse](https://teamtreehouse.com)
 * [CodeSchool](https://www.codeschool.com/)
 * [Codewars](http://www.codewars.com/)
+
+###Personal experience and Freelancing
+
+While learning all of these technologies, I was up for hire. I had different clients, some excellent, some terrible that bailed on me. Regardless of that, I appreciate the practice and the learning I acquired from them.
+
+Another freelancer advised that you should establish a first base price for your first project, and then add 10% as you go, and never go for less than that.
+
+Your work should be human, and not just 'a website factory', try to be pasionate and be in concact with your clients, they'll appreciate it, and recommend you and even come again. At the end of each project ask for feedback to get better and improve your skills.
 
 ###Conclusion
 
