@@ -179,6 +179,7 @@ Rails resources I use almost daily:
 * [Railscasts](http://railscasts.com/)
 * [Mackenzie Child](https://www.youtube.com/playlist?list=PL23ZvcdS3XPKHTQBkvfxSeyeaO2EwnxlM)
 * [Official Rails Guide](http://guides.rubyonrails.org/index.html)
+* [Rich on Rails](https://richonrails.com/)
 
 ### Aditional resources
 
