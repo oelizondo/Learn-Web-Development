@@ -103,7 +103,7 @@ Please keep in mind that these are not all the task runners or package managers 
 ###A JavaScript Framework ( Many months / The rest of your life. )
 
 Alright, here we are. The best part of front-end web development. Why? Because we get to build real webapps now! Aren't you excited!? (You can take a breather). So, here's how it works:
-A JS framework lets you have the full functionality of an app but only running on the client side, while hooking up a BaaS ( Backend as a service ) like * [Parse](https://www.parse.com/) or * [Firebase](https://www.firebase.com/) to manage all your data for you. But there's so many!? Look here:
+A JS framework lets you have the full functionality of an app but only running on the client side, while hooking up a BaaS ( Backend as a service ) like [Parse](https://www.parse.com/) or [Firebase](https://www.firebase.com/) to manage all your data for you. But there's so many!? Look here:
 
 1. You select a JS framework. ( How? The one that has the prettiest name, has the best landing, etc.)
 2. You make a simple app to test out the framework. Maybe a todo, just check things out.
