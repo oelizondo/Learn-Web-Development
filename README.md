@@ -181,6 +181,9 @@ Rails resources I use almost daily:
 * [Official Rails Guide](http://guides.rubyonrails.org/index.html)
 * [Rich on Rails](https://richonrails.com/)
 
+###Other Frameworks
+Of course, if Rails or Ruby isn't your area of interest, there's always other server-side languages and frameworks to choose from. Somebody once asked me how to start, where to start with these things I personally don't know. What I'd recommend (and it has worked for me) is to check out the official website of the technology you want to know. If you want to learn Django then go to their site to see documentation and how to get started. Many of these website have included learning resources and courses to help you learn quickly.
+
 ### Aditional resources
 
 ###Books
