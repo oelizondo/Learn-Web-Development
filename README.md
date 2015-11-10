@@ -49,14 +49,15 @@ This is one of my favorite parts of web development. Sass. Oh. My. God. Preproce
 
 **Jade**
 
-Jade is an amazing template engine that replaces common HTML, and goes along nicely when mixing it with frameworks like Express, Rails, Angular, etc. Not necessary, but nice to have.
+Jade is a template engine that replaces common HTML, and goes along nicely when mixing it with frameworks like Express, Rails, Angular, etc. It's not necessary, and many people thing it's useless to learn yet another language for something you already do almost automatically. I personally agree with those guys, and use the Emmet plugin because it feels more comfortable with my working style.
+
 * [Jade website](http://jade-lang.com/)
 
 Yes, I know it's a lot, but bear with me, by the time you get this down, you're on to the amazing world of JS.
 
 ###Javascript and maybe jQuery ( A few months, get comfortable with JS )
 This is where things get interesting. Javascript and jQuery. Because from here you can choose a JS framework or pick a backend (more into that later).
-Many people fight over wether jQuery is actual programming or not. I think it is. So there's that. First, of course, to use a library we must learn the language. So:
+Many people fight over wether jQuery is actual programming or not. I think it is. So there's that. First, of course, to use a library we must learn the language itself. So:
 
 * [JavaScript](https://www.codecademy.com/en/tracks/javascript)
 This should be enough knowledge to advance into the jQuery department. What I did here was use some vanilla JS to make some websites interactive. I made 2 websites before jQuery.
@@ -193,7 +194,7 @@ Books I've read during this (never ending) journey:
 * [John Duckett's HTML / CSS & JavaScript / jQuery Books](http://www.amazon.com/Web-Design-HTML-JavaScript-jQuery/dp/1118907442/ref=sr_1_1?ie=UTF8&qid=1441080408&sr=8-1&keywords=html+css+javascript)
 * [Peter Cooper's Beginning Ruby](http://www.amazon.com/Beginning-Ruby-Novice-Professional-Experts/dp/1430223634/ref=sr_1_1?ie=UTF8&qid=1441080474&sr=8-1&keywords=beginning+ruby)
 * [The rails 4 way](http://www.amazon.com/Rails-Way-Addison-Wesley-Professional-Ruby/dp/0321944275/ref=sr_1_1?ie=UTF8&qid=1441080635&sr=8-1&keywords=the+rails+4+way)
-* [Object Oriented Progrmming](http://www.amazon.com/Practical-Object-Oriented-Design-Ruby-Addison-Wesley/dp/0321721330/ref=sr_1_1?ie=UTF8&qid=1441081084&sr=8-1&keywords=object+oriented+ruby)
+* [Object Oriented Programming](http://www.amazon.com/Practical-Object-Oriented-Design-Ruby-Addison-Wesley/dp/0321721330/ref=sr_1_1?ie=UTF8&qid=1441081084&sr=8-1&keywords=object+oriented+ruby)
 
 ###Websites
 
@@ -218,3 +219,9 @@ To be a developer is not only a discipline, but a passion that takes dedication 
 You can do this.
 
 -Oscar Elizondo H.
+
+###Coming soon
+
+* How I learned testing with Rails and Ruby.
+* Learning Elixir.
+
