@@ -3,7 +3,7 @@
 **Awesome resources to become a web developer.**
 
 ##Foreword
-Many People have asked me the route to learn web development quickly or as fast as possible. My answer to them is: there's isn't one. Web development is such a big concept that it'd be impossible to learn in just a few months. This guide I wrote is the path I took to learn what I know about web development in a year. Naturally, this guide doesn't include all the mistakes I made and all the time I lost trying to teach myself a technology that didn't click with me. I listed all that I learned but you won't have to waste time. I will exclude things like text editors and version control because those are personal preferences. Enjoy:
+Many people have asked me the route to learn web development quickly or as fast as possible. My answer to them is: there isn't one. Web development is such a big concept that it'd be impossible to learn in just a few months. This guide I wrote is the path I took to learn what I know about web development in a year. Naturally, this guide doesn't include all the mistakes I made and all the time I lost trying to teach myself a technology that didn't click with me. I listed all that I learned so you won't have to waste time. I will exclude things like text editors and version control because those are personal preferences. Enjoy:
 
 ## Learning Hubs
 These are links to places I go to when I have a question.
@@ -24,7 +24,7 @@ These links are the steps I took to learn web development, in order, and the tim
 * [Publish your site](https://www.youtube.com/watch?v=tq7dqdHCc7U)
 
 ###HTML and CSS ( 1 to 2 months to dominate. )
-It is worth noting that since thisi is the base of all your development education, you shouldn't move on to the next topic before mastering html and css.
+It's worth noting that since this is the base of all your development education, you shouldn't move on to the next topic before mastering HTML and CSS.
 * [HTML & CSS](https://www.codecademy.com/) course, I didn't finish it, because I started practicing right off the bat. I made about 3 wesbites before moving on to the next topic. So when I came back to this course I had already learned all of it and more.
 
 ###Responsiveness, frameworks, and advanced topics ( 2 weeks to a month. )
