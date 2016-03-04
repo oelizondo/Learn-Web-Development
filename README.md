@@ -81,11 +81,6 @@ During this period, I wasn't sure how JS really worked. Nor why I'd want to use 
 
 It's basically a playground were developers do clever and beautiful things. If you want to learn and see how people do things, go ahead and give it a try.
 
-###Agile Javascript ( Just practice while you do JS. )
-This is awesome, JS itself is kind of uncomfortable to use, but there are extensions of the language that make it easier to write. There are a few, but my favorite is CoffeeScript. The syntax is very Ruby-like, so if you come from a more expressive language (Like Ruby or Python) then CoffeeScript makes the transition painless and amazing. Also, it works well with jQuery, and you get amazing one-lines are your JS is reduced heavily. Here's a guide for you if you're interested:
-
-* [The Little Book on CoffeeScript](http://arcturo.github.io/library/coffeescript/)
-
 ###Task Runners and Package Managers ( A few weeks to really get the hang of it. )
 
 **Gulp**
@@ -111,21 +106,11 @@ A JS framework lets you have the full functionality of an app but only running o
 3. Practice.
 4. Get good.
 
-That's it! I personally love Angular, it's flexible, and nobody tells me how to do things. At first it took some time for things to flow. Why would I even want this? I can do that in plain HMTL and CSS. But then it clicked. It all comes down to the data. When you need dynamic info to move around your app, you'll need a framework. And that's where Angular kicked me in the face and I understood it once and for all.
+That's it! I personally like React, it's a library, not a framework, but you get the ieda, if you include other libraries like Redux and Flux, you get a whole app running. At first it took some time for things to flow. Why would I even want this? I can do that in plain HMTL and CSS. But then it clicked. It all comes down to the data. When you need dynamic info to move around your app, you'll need a framework. And that's where React kicked me in the face and I understood it once and for all.
 
-* [Follow the tutorial, it's amazing.](https://angularjs.org/)
+* [React](https://facebook.github.io/react/)
 
-* [Angular in 60ish minutes](https://www.youtube.com/watch?v=i9MHigUZKEM)
-
-* [Codeschool tutorial](http://campus.codeschool.com/courses/shaping-up-with-angular-js/intro)
-
-**You like web development but you want to make mobile apps and you know Angular?**
-
-* [Here's the Ionic framework for you](http://ionicframework.com/)
-
-I used Ionic in a hackathon to build a Recipe building application that interacted with the Yummmly API. It was cool and the development environment was comfortable and appropiate for a web developer.
-
-Before going to the backend, it's important (and awesome) to learn how to use APIs. Here is a simple guide that'll make you a pro, basically:
+* [Build your first react app](https://medium.com/learning-new-stuff/building-your-first-react-js-app-d53b0c98dc#.22ls0xktp)
 
 * [APIs with JS](https://www.youtube.com/watch?v=ODlgfpLsFGk)
 
