@@ -1,8 +1,8 @@
-#Learn the Web
+# Learn the Web
 
 **Awesome resources to become a web developer.**
 
-##Foreword
+## Foreword
 Many people have asked me the route to learn web development quickly or as fast as possible. My answer to them is: there isn't one. Web development is such a big concept that it'd be impossible to learn in just a few months. This guide I wrote is the path I took to learn what I know about web development in a year. Naturally, this guide doesn't include all the mistakes I made and all the time I lost trying to teach myself a technology that didn't click with me. I listed all that I learned so you won't have to waste time. I will exclude things like text editors and version control because those are personal preferences. Enjoy:
 
 ## Learning Hubs
@@ -10,28 +10,27 @@ These are links to places I go to when I have a question.
 * [Github](https://github.com/)
 * [Mozilla Developer Network](https://developer.mozilla.org/en-US/Learn)
 * [CSS-Tricks](https://css-tricks.com/)
-* [Scotch.io](https://scotch.io/)
 * [Webdev Subreddit](https://www.reddit.com/r/webdev/)
 * [JavaScript Subreddit](https://www.reddit.com/r/javascript)
 * [StackOverflow](http://stackoverflow.com/)
 
-##Guides
-These links are the steps I took to learn web development, in order, and the time it takes to master it, with practice included:
+## Guides
+These links are the steps I took to learn web development, in order, and the time I took to master it, with practice included:
 
 * [How the internet works](https://www.youtube.com/playlist?list=PLqGj3iMvMa4IbNGS5shOx38KXtAtWEZsq)
 * [Basic Terminal usage](https://www.youtube.com/watch?v=jDINUSK7rXE&index=16&list=PLoYCgNOIyGAB_8_iq1cL8MVeun7cB6eNc)
 * [How to Github](https://www.youtube.com/watch?v=0fKg7e37bQE&index=9&list=PLoYCgNOIyGAB_8_iq1cL8MVeun7cB6eNc)
 * [Publish your site](https://www.youtube.com/watch?v=tq7dqdHCc7U)
 
-###HTML and CSS ( 1 to 2 months to dominate. )
+### HTML and CSS ( 1 to 2 months to dominate. )
 It's worth noting that since this is the base of all your development education, you shouldn't move on to the next topic before mastering HTML and CSS.
-* [HTML & CSS](https://www.codecademy.com/) course, I didn't finish it, because I started practicing right off the bat. I made about 3 wesbites before moving on to the next topic. So when I came back to this course I had already learned all of it and more.
+* [HTML & CSS](https://www.codecademy.com/) course, I didn't finish it, because I started practicing right off the bat. I made about 3 websites before moving on to the next topic. So when I came back to this course I had already learned all of it and more.
 
-###Responsiveness, frameworks, and advanced topics ( 2 weeks to a month. )
-Alright, so you think you know html and css. But what do you know about responsivness? Or frameworks like Bootstrap or Skeleton? What about animations? Not to worry I'll link them to you, no wasting time and searching on the web.
+### Responsiveness, frameworks, and advanced topics ( 2 weeks to a month. )
+Alright, so you think you know html and css. But what do you know about responsiveness? Or frameworks like Bootstrap or Skeleton? What about animations? Not to worry I'll link them to you, no wasting time and searching on the web.
 
 * [How to Bootstrap](https://www.youtube.com/playlist?list=PLqGj3iMvMa4IPwMW-sSXn1Q_pVu5tUMCw)
-Bootstrap is the biggest guy on the block, it has many awesome features like a grid, boxes, tables, modals, and javascript functionality. My personal problem with this, and any other frameworks is that developers never get into the responsivness of things, they don't know what's happening don't explore the possibilities and what's our there waiting for them. It's an amazing start for newcomers, but delve deeper into the HTML and CSS of things.
+Bootstrap is the biggest guy on the block, it has many awesome features like a grid, boxes, tables, modals, and javascript functionality. My personal problem with this, and any other frameworks is that developers never get into the responsiveness of things, they don't know what's happening don't explore the possibilities and what's our there waiting for them. It's an amazing start for newcomers, but delve deeper into the HTML and CSS of things.
 
 * [SkeletonCSS](http://getskeleton.com/)
 A personal favorite, lightweight, simple and only includes the essential grid.
@@ -39,7 +38,7 @@ A personal favorite, lightweight, simple and only includes the essential grid.
 * [CSS3 + Animations](https://www.youtube.com/playlist?list=PLLnpHn493BHFOoBjPGOcWL1PnY0H1w5N_)
 It took a while to learn this. It's tricky. But you'll get it down in about a week or two.
 
-###Preprocessors ( About a week to a month. )
+### Preprocessors ( About a week to a month. )
 This is one of my favorite parts of web development. Sass. Oh. My. God. Preprocessors are a way to write better, slimmer and easier-to-read CSS. You can even go so far as to write no brackets or semicolons. It's amazing for quick prototyping, and it'll be hard to go back once you start practicing. All of my projects are written with Sass. It's ridiculous how 10 lines in Sass can equal to 30 normal CSS.
 
 **Sass**
@@ -47,15 +46,9 @@ This is one of my favorite parts of web development. Sass. Oh. My. God. Preproce
 * [Sass website](http://sass-lang.com/)
 * [Sass tutorials](https://www.youtube.com/playlist?list=PL2CB1F80266E986EA)
 
-**Jade**
-
-Jade is a template engine that replaces common HTML, and goes along nicely when mixing it with frameworks like Express, Rails, Angular, etc. It's not necessary, and many people thing it's useless to learn yet another language for something you already do almost automatically. I personally agree with those guys, and use the Emmet plugin because it feels more comfortable with my working style.
-
-* [Jade website](http://jade-lang.com/)
-
 Yes, I know it's a lot, but bear with me, by the time you get this down, you're on to the amazing world of JS.
 
-###Javascript and maybe jQuery ( A few months, get comfortable with JS )
+### Javascript and maybe jQuery ( A few months, get comfortable with JS )
 This is where things get interesting. Javascript and jQuery. Because from here you can choose a JS framework or pick a backend (more into that later).
 Many people fight over wether jQuery is actual programming or not. I think it is. So there's that. First, of course, to use a library we must learn the language itself. So:
 
@@ -63,11 +56,11 @@ Many people fight over wether jQuery is actual programming or not. I think it is
 This should be enough knowledge to advance into the jQuery department. What I did here was use some vanilla JS to make some websites interactive. I made 2 websites before jQuery.
 
 * [jQuery](https://www.codeschool.com/courses/try-jquery)
-Although people argue jQuery is going downhill, it's just losing its popularity, but it's still an amazing tool to have under your belt to create things. Everything I do is a mix of jQuery and CoffeeScript now.
+Although people argue jQuery is going downhill, it's just losing its popularity, but it's still an amazing tool to have under your belt to create things.
 
 Keep in mind these guides are the basics, I went on my own from there creating imaginary projects and some client work as well. That made me better in the JS world.
 
-###Web-Driven JavaScript ( Another few months. )
+### Web-Driven JavaScript ( Another few months. )
 
 So how is JS and jQuery used in the real world and in the web? Take a look:
 
@@ -81,32 +74,23 @@ During this period, I wasn't sure how JS really worked. Nor why I'd want to use 
 
 It's basically a playground were developers do clever and beautiful things. If you want to learn and see how people do things, go ahead and give it a try.
 
-###Task Runners and Package Managers ( A few weeks to really get the hang of it. )
+### Task Runners and Package Managers ( A few weeks to really get the hang of it. )
 
-**Gulp**
- is an amazing task runner that makes things super simple. What can it do? Compile your Sass, CoffeeScript, LiveReloads, compress images, files, handle errors. You never really know you need it until you try it. It speeds development time by seconds that turn into minutes that turn into hours that turn into days, you get the idea.
-
-*  [Gulp tutorial](https://www.youtube.com/playlist?list=PLLnpHn493BHE2RsdyUNpbiVn-cfuV7Fos)
-
-**Bower**
- is my favorite package manager. It does everything you need and more, with a simple command ```bower install skeleton``` You get the whole package installed and it's ready to use.
-There is no real Bower tutorial, because it's really that dead simple to use.
-
-* [Bower.io](http://bower.io/)
+**Webpack**
 
 Please keep in mind that these are not all the task runners or package managers in the world. These are just the ones that I liked and clicked with me to help me learn and speed up my development process. There are other options out there, but these are my personal favorites.
 
-###A JavaScript Framework ( Many months / The rest of your life. )
+### A JavaScript Framework ( Many months / The rest of your life. )
 
 Alright, here we are. The best part of front-end web development. Why? Because we get to build real webapps now! Aren't you excited!? (You can take a breather). So, here's how it works:
 A JS framework lets you have the full functionality of an app but only running on the client side, while hooking up a BaaS ( Backend as a service ) like [Parse](https://www.parse.com/) or [Firebase](https://www.firebase.com/) to manage all your data for you. But there's so many!? Look here:
 
-1. You select a JS framework. ( How? The one that has the prettiest name, has the best landing, etc.)
+1. You select a JS framework. (How? The one that has the prettiest name, has the best landing, etc.)
 2. You make a simple app to test out the framework. Maybe a todo, just check things out.
 3. Practice.
 4. Get good.
 
-That's it! I personally like React, it's a library, not a framework, but you get the ieda, if you include other libraries like Redux and Flux, you get a whole app running. At first it took some time for things to flow. Why would I even want this? I can do that in plain HMTL and CSS. But then it clicked. It all comes down to the data. When you need dynamic info to move around your app, you'll need a framework. And that's where React kicked me in the face and I understood it once and for all.
+That's it! I personally like React, it's a library, not a framework, but you get the idea, if you include other libraries like Redux and Flux, you get a whole app running. At first it took some time for things to flow. Why would I even want this? I can do that in plain HMTL and CSS. But then it clicked. It all comes down to the data. When you need dynamic info to move around your app, you'll need a framework. And that's where React kicked me in the face and I understood it once and for all.
 
 * [React](https://facebook.github.io/react/)
 
@@ -114,9 +98,9 @@ That's it! I personally like React, it's a library, not a framework, but you get
 
 * [APIs with JS](https://www.youtube.com/watch?v=ODlgfpLsFGk)
 
-###Backend ( The rest of your life. )
+### Backend ( The rest of your life. )
 
-This is where things start to get fuzzy. This is where all the rainbow-colored things die. I'm kidding. But this is where I had the most trouble thriving. The backend. The problem with this is having to choose (yet another) language for the server-side. There are two problems here: 1. Choosing stuff. (why are there so many options omg.) and 2. Having to learn another language. This is hard, you know HTML, CSS, JS. PLUS Sass, CoffeeScript, Jade and jQuery. Isn't that like, a lot? It is and if you're reading this, you're awesome.
+This is where things start to get fuzzy. This is where all the rainbow-colored things die. I'm kidding. But this is where I had the most trouble thriving. The backend. The problem with this is having to choose (yet another) language for the server-side. There are two problems here: 1. Choosing stuff. (why are there so many options?) and 2. Having to learn another language. This is hard, you know HTML, CSS, JS. PLUS Sass, CoffeeScript, Jade and jQuery. Isn't that like, a lot? It is and if you're reading this, you're awesome.
 
 **Languages**
 
@@ -167,12 +151,12 @@ Rails resources I use almost daily:
 * [Official Rails Guide](http://guides.rubyonrails.org/index.html)
 * [Rich on Rails](https://richonrails.com/)
 
-###Other Frameworks
+### Other Frameworks
 Of course, if Rails or Ruby isn't your area of interest, there's always other server-side languages and frameworks to choose from. Somebody once asked me how to start, where to start with these things I personally don't know. What I'd recommend (and it has worked for me) is to check out the official website of the technology you want to know. If you want to learn Django then go to their site to see documentation and how to get started. Many of these website have included learning resources and courses to help you learn quickly.
 
-### Aditional resources
+### Additional resources
 
-###Books
+### Books
 
 Books I've read during this (never ending) journey:
 
@@ -181,32 +165,26 @@ Books I've read during this (never ending) journey:
 * [The rails 4 way](http://www.amazon.com/Rails-Way-Addison-Wesley-Professional-Ruby/dp/0321944275/ref=sr_1_1?ie=UTF8&qid=1441080635&sr=8-1&keywords=the+rails+4+way)
 * [Object Oriented Programming](http://www.amazon.com/Practical-Object-Oriented-Design-Ruby-Addison-Wesley/dp/0321721330/ref=sr_1_1?ie=UTF8&qid=1441081084&sr=8-1&keywords=object+oriented+ruby)
 
-###Websites
+### Websites
 
 * [TeamTreehouse](https://teamtreehouse.com)
 * [CodeSchool](https://www.codeschool.com/)
 * [Codewars](http://www.codewars.com/)
 
-###Personal experience and Freelancing
+### Personal experience and Freelancing
 
 While learning all of these technologies, I was up for hire. I had different clients, some excellent, some terrible that bailed on me. Regardless of that, I appreciate the practice and the learning I acquired from them.
 
 Another freelancer advised that you should establish a first base price for your first project, and then add 10% as you go, and never go for less than that.
 
-Your work should be human, and not just 'a website factory', try to be pasionate and be in concact with your clients, they'll appreciate it, and recommend you and even come again. At the end of each project ask for feedback to get better and improve your skills.
+Your work should be human, and not just 'a website factory', try to be passionate and be in contact with your clients, they'll appreciate it, and recommend you and even come again. At the end of each project ask for feedback to get better and improve your skills.
 
-###Conclusion
+### Conclusion
 
-I've been doing Rails since May. So that'd be about 4 Months. And Web development in general since October (2014). I have done many apps, learned many things, and I still learn new things everyday. To everybody that asks me, "How can I become a developer ASAP?". Please consider re-reading this guide, it really has all the steps to even get a good-paying job in the tech industry. If you can manage to master these things, I garantee you this.
+I've been doing web development since October (2014). I have done many apps, learned many things, and I still learn new things everyday. To everybody that asks me, "How can I become a developer ASAP?". Please consider re-reading this guide, it really has all the steps to even get a good-paying job in the tech industry. If you can manage to master these things, I guarantee you this.
 
 To be a developer is not only a discipline, but a passion that takes dedication and sacrifice. It is to think like an engineer, to come up with the best solution an how you can make a client competent, and satisfy him with your awesome skills.  Many times have I said no to a party (or something of the sort) to stay at home with some friends (or even alone) to keep learning. I encourage you to never stop hacking and make amazing stuff not only at hackathons or at school, but also at home, with your friends or even a startup.
 
 You can do this.
 
 -Oscar Elizondo H.
-
-###Coming soon
-
-* How I learned testing with Rails and Ruby.
-* Learning Elixir.
-
